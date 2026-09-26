@@ -15,7 +15,7 @@ The technologies I use the most are:
 - Javascript | CSS | HTML5 | Vite - for dynamic and responsive web frontend applications
 
 ## Skills
-- Developed web backend servers using node.js and express to build web services with high performance and best practices. 
+- Developed web backend servers using node.js and express to build web services following industry best practices. 
 - Developed dynamic and interactive web frontend applications using core technologies [JavaScript, CSS and HTML5] achieving 90-100 scores in SEO and best practices using lighthouse. 
 - Engineered custom software using Go, Python, and C# to solve user requirements. 
 - Designed, normalized and optimized relational database schemas using MySQL, MariaDB, and PostgreSQL. 
