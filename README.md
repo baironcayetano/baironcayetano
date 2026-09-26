@@ -28,5 +28,5 @@ Let's build something big together! Reach out to me through:
 - [LinkedIn](https://www.linkedin.com/in/bairon-spenser-c-a97009250/?locale=en-US)
 - [spensercayetano@gmail.com](mailto:spensercayetano@gmail.com)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=baironcayetano&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=baironcayetano&layout=compact)
+## GitHub Statistics
+[![GitHub Streak](https://streak-stats.demolab.com?user=baironcayetano&theme=radical)](https://git.io/streak-stats)
