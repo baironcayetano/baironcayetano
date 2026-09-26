@@ -22,6 +22,11 @@ The technologies I use the most are:
 - Ability to work with Agile and SCRUM methodologies to improve software lifecycle. 
 - Clear and assertive communication in a team setting. 
 
+## Projects and Work
+- CSE340-Web-backend-development: This project is being built as part of the learning activities for backend development at BYUI.
+- WDD330---Team08: This project is being built with my team as part of the learning activities for the web frontend development class at BYUI.
+- pumuki-commerce: This is a private project (so you won't be able to see it) but is a marketplace for Honduras inspired in Amazon.com. I am building this project to bring to Honduras a service that is not available in my country right now. I am building it using Go and Fiber. 
+
 ## Contact
 Let's build something big together! Reach out to me through:
 
@@ -29,4 +34,4 @@ Let's build something big together! Reach out to me through:
 - [spensercayetano@gmail.com](mailto:spensercayetano@gmail.com)
 
 ## GitHub Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=baironcayetano&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=baironcayetano&theme=highcontrast)](https://git.io/streak-stats)
