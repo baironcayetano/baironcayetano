@@ -8,13 +8,25 @@ the people around me. I love solving hard and sofisticated problems.
 One of my favorite hobbies is to simplify processes through programming leaving me free time to solve more problems
 
 ## Technologies 
-There are many technologies I use to build software but most of the time I am build web systems. 
+There are many technologies I use to build software, but most of the time I build web systems.
 The technologies I use the most are:
 - Node.js | Express | JavaScript/TypeScript - for Backend Development
 - Go | Fiber - for Backend Development
 - Javascript | CSS | HTML5 | Vite - for dynamic and responsive web frontend applications
 
+## Skills
+- Development of web backend servers using node.js and express to build web services with high performance and best practices. 
+- Development of dynamic and interactive web frontend applications using core technologies [JavaScript, CSS and HTML5] achieving 90-100 scores in SEO and best practices using lighthouse. 
+- Development of custom software using Go, Python, and C# to solve user needs. 
+- Planning and development of database systems using MySQL, MariaDB, and PostgreSQL. 
+- Ability to work with Agile and SCRUM methodologies to improve software lifecycle. 
+- Clear and assertive communication in a team setting. 
+
 ## Contact
-Let's build big something together! Reach me out through:
-[linkedIn](https://www.linkedin.com/in/bairon-spenser-c-a97009250/?locale=en-US)
-[spensercayetano@gmail.com](mailto:spensercayetano@gmail.com)
+Let's build something big together! Reach out to me through:
+
+- [LinkedIn](https://www.linkedin.com/in/bairon-spenser-c-a97009250/?locale=en-US)
+- [spensercayetano@gmail.com](mailto:spensercayetano@gmail.com)
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=baironcayetano&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=baironcayetano&layout=compact)
