@@ -46,8 +46,13 @@ I am a software engineer from Honduras specialized in development of web fronten
 - Collaborated in cross-functional teams with clear and assertive communication. 
 
 ### Projects and Work
-- CSE340-Web-backend-development: This project is being built as part of the learning activities for backend development at BYUI.
-- WDD330---Team08: This project is being built with my team as part of the learning activities for the web frontend development class at BYUI.
+<ul>
+  <li><strong>service-project-managment:</strong><p>This is a SSR application built using express and ejs. Helps organizations to schedule projects and allows users to join them. Technologies use: node.js, express, ejs, posgreSQL.</p>   
+  </li>
+  <li>
+    <strong>gamevenue:</strong><p> This is a web application built using js, eslint and vite. This application helps gamers to find games by platforms, add them to favorites and wish lists and check prices on online stores. Built using the raw.io API and the cheapShark API.</p>
+  </li>
+</ul>
 
 ### Connect With Me
 
