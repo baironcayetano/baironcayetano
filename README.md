@@ -48,9 +48,11 @@ I am a software engineer from Honduras specialized in development of web fronten
 ### Projects and Work
 <ul>
   <li><strong>service-project-managment:</strong><p>This is a SSR application built using express and ejs. Helps organizations to schedule projects and allows users to join them. Technologies use: node.js, express, ejs, posgreSQL.</p>   
+  <p><strong>Link: </strong><a href="https://github.com/baironcayetano/service-project-manager">service-project-manager repository</a></p>
   </li>
   <li>
-    <strong>gamevenue:</strong><p> This is a web application built using js, eslint and vite. This application helps gamers to find games by platforms, add them to favorites and wish lists and check prices on online stores. Built using the raw.io API and the cheapShark API.</p>
+    <strong>GameVenue:</strong><p> This is a web application built using js, eslint and vite. This application helps gamers to find games by platforms, add them to favorites and wish lists and check prices on online stores. Built using the raw.io API and the cheapShark API.</p>
+    <p><strong>Link: </strong><a href="https://github.com/baironcayetano/gamevenue">GameVenue repository</a></p>
   </li>
 </ul>
 
